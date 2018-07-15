@@ -103,7 +103,7 @@ class TwoLayerNet(object):
     #############################################################################
 
     # Backward pass: compute gradients
-    grads = {}
+    grads = {}#zidian
     #############################################################################
     # TODO: Compute the backward pass, computing the derivatives of the weights #
     # and biases. Store the results in the grads dictionary. For example,       #
